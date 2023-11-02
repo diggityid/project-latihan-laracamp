@@ -16,31 +16,47 @@ class CampBenefitSeeder extends Seeder
         $benefit = [
             [
                 'camp_id' => 1,
-                'name' => 'Main Laravel bisa dapat 7M'
+                'name' => 'Pro Techstack Kit'
             ],
             [
                 'camp_id' => 1,
-                'name' => 'Jago dalam sehari'
+                'name' => 'iMac Pro 2021 & Display'
             ],
             [
                 'camp_id' => 1,
-                'name' => 'Diskon 100%'
+                'name' => '1-1 Mentoring Program'
             ],
             [
                 'camp_id' => 1,
-                'name' => '1 Jam jago ngoding'
+                'name' => 'Final Project Certificate'
             ],
             [
                 'camp_id' => 1,
-                'name' => 'Tapi semua itu hanyalah hayalan'
+                'name' => 'Offline Course Videos'
+            ],
+            [
+                'camp_id' => 1,
+                'name' => 'Future Job Opportinity'
+            ],
+            [
+                'camp_id' => 1,
+                'name' => 'Premium Design Kit'
+            ],
+            [
+                'camp_id' => 1,
+                'name' => 'Website Builder'
             ],
             [
                 'camp_id' => 2,
-                'name' => 'Tercipta bukan untukmu'
+                'name' => '1-1 Mentoring Program'
             ],
             [
                 'camp_id' => 2,
-                'name' => 'Lebih hemat'
+                'name' => 'Final Project Certificate'
+            ],
+            [
+                'camp_id' => 2,
+                'name' => 'Offline Course Videos'
             ],
         ];
 
